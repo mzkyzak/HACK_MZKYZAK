@@ -1,0 +1,1584 @@
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 149.154.161.246
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 149.154.161.212
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 182.3.43.35
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 182.3.43.35
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 2001:448a:2071:2495:a744:bc22:5819:9e9d
+IP Type              : IPv6
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:a744:bc22:5819:9e9d
+IP Type              : IPv6
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:a744:bc22:5819:9e9d
+IP Type              : IPv6
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:a744:bc22:5819:9e9d
+IP Type              : IPv6
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:a744:bc22:5819:9e9d
+IP Type              : IPv6
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 110.138.81.79
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 110.138.81.79
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 110.138.81.79
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 110.138.81.79
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:e50b:e5dc:b275:3be5
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:33a6:3325:8695:5671
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:33a6:3325:8695:5671
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 2001:448a:2071:2495:33a6:3325:8695:5671
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 182.0.196.214
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 182.0.196.214
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.72.41
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.78.233
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 192.168.68.127
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 127.0.0.1
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.78.233
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Jakarta, Indonesia, Asia
+GeoLocation(lat, lon): -6.2086785, 106.8454934
+Currency             : Indonesian rupiah
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+IP                   : 125.161.79.225
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome

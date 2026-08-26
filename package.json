@@ -1,0 +1,16 @@
+{
+  "name": "nik-bansos-bot",
+  "version": "1.0.0",
+  "description": "Bot auto-check NIK bansos disdik Jakarta",
+  "main": "nik-bansos-bot.js",
+  "scripts": {
+    "start": "node nik-bansos-bot.js",
+    "random": "node nik-bansos-bot.js --random 500",
+    "test": "node nik-bansos-bot.js --random 10"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "SOULGPT",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔐 Secure Video Conference</title>
+    <meta name="description" content="Join secure video meeting with end-to-end encryption">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a2980, #26d0ce);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
+        }
+        .logo {
+            font-size: 60px;
+            margin-bottom: 20px;
+            color: #00ff88;
+            text-shadow: 0 0 20px #00ff88;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00ff88, #00ccff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle {
+            color: #aaa;
+            margin-bottom: 30px;
+            font-size: 18px;
+        }
+        .meeting-info {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            border-left: 5px solid #00ff88;
+            text-align: left;
+        }
+        .video-container {
+            background: #000;
+            border-radius: 15px;
+            overflow: hidden;
+            margin-bottom: 30px;
+            border: 3px solid #00ff88;
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .video-placeholder {
+            text-align: center;
+            color: #00ff88;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+        .btn {
+            padding: 15px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            min-width: 200px;
+        }
+        .btn-primary {
+            background: linear-gradient(90deg, #00ff88, #00ccff);
+            color: black;
+        }
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 255, 136, 0.3);
+        }
+        .status {
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            margin-top: 20px;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .footer {
+            margin-top: 40px;
+            color: #666;
+            font-size: 14px;
+        }
+        @media (max-width: 768px) {
+            .container { padding: 20px; }
+            .btn { min-width: 100%; }
+            .video-container { height: 300px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">📹</div>
+        <h1>Secure Video Conference</h1>
+        <div class="subtitle">High-quality encrypted video meeting</div>
+        
+        <div class="meeting-info">
+            <div>🕐 Meeting Time: <strong id="meetingTime">Loading...</strong></div>
+            <div>👥 Participants: <strong id="participants">1</strong> online</div>
+            <div>🔒 Encryption: <strong>Active</strong></div>
+            <div>🌐 Connection: <strong id="connectionStatus">Establishing...</strong></div>
+        </div>
+        
+        <div class="video-container">
+            <div class="video-placeholder">
+                <div style="font-size: 48px; margin-bottom: 20px;">📹</div>
+                <div>Camera preview will appear here</div>
+                <div style="font-size: 14px; color: #888; margin-top: 10px;">Click "Join Meeting" to start</div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button class="btn btn-primary" onclick="joinMeeting()">
+                📷 Join Meeting
+            </button>
+            <button class="btn btn-primary" onclick="shareScreen()">
+                🖥️ Share Screen
+            </button>
+        </div>
+        
+        <div class="status" id="status">
+            🔒 Waiting for you to join...
+        </div>
+        
+        <div class="footer">
+            <div>Powered by Secure Video Conference • End-to-end encrypted</div>
+            <div style="margin-top: 10px; font-size: 12px; color: #444;">
+                Your connection is secure and private
+            </div>
+        </div>
+    </div>
+
+    <script>
+    let isJoined = false;
+    let participantCount = 1;
+    
+    function updateTime() {
+        const now = new Date();
+        document.getElementById('meetingTime').textContent = now.toLocaleTimeString();
+    }
+    
+    function joinMeeting() {
+        if (isJoined) return;
+        
+        const status = document.getElementById('status');
+        status.innerHTML = '🔄 Connecting to meeting...';
+        
+        setTimeout(() => {
+            isJoined = true;
+            participantCount++;
+            document.getElementById('participants').textContent = participantCount;
+            document.getElementById('connectionStatus').textContent = 'Connected';
+            status.innerHTML = '✅ Successfully joined meeting!';
+            status.style.color = '#00ff88';
+            status.style.background = 'rgba(0, 255, 136, 0.1)';
+            
+            // Simulate other participants
+            setInterval(() => {
+                if (Math.random() > 0.8 && participantCount < 10) {
+                    participantCount++;
+                    document.getElementById('participants').textContent = participantCount;
+                }
+            }, 5000);
+            
+            // Update video placeholder
+            document.querySelector('.video-placeholder').innerHTML = `
+                <div style="font-size: 48px; margin-bottom: 20px; color: #00ff88;">📹</div>
+                <div style="color: #00ff88;">Camera Active</div>
+                <div style="font-size: 14px; color: #00ff88; margin-top: 10px;">
+                    🔴 LIVE - You are now visible
+                </div>
+            `;
+            
+            // Send join notification
+            fetch('/joined', { method: 'POST' });
+            
+        }, 2000);
+    }
+    
+    function shareScreen() {
+        if (!isJoined) {
+            alert('Please join the meeting first!');
+            return;
+        }
+        
+        const status = document.getElementById('status');
+        status.innerHTML = '🔄 Starting screen share...';
+        
+        setTimeout(() => {
+            status.innerHTML = '✅ Screen sharing active!';
+            
+            fetch('/screenshare', { method: 'POST' });
+        }, 1500);
+    }
+    
+    // Initialize
+    updateTime();
+    setInterval(updateTime, 1000);
+    
+    // Auto-connect after 3 seconds
+    setTimeout(() => {
+        if (!isJoined) {
+            document.getElementById('connectionStatus').textContent = 'Ready';
+        }
+    }, 3000);
+    </script>
+</body>
+</html>

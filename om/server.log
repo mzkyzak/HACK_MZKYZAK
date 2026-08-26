@@ -1,0 +1,82 @@
+[Wed Jul 29 08:30:54 2026] PHP 8.4.11 Development Server (http://0.0.0.0:8080) started
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38004 Accepted
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38018 Accepted
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38004 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38004 Closing
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38018 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Jul 29 08:31:11 2026] 192.168.68.127:38018 Closing
+[Wed Jul 29 08:31:14 2026] 192.168.68.127:36618 Accepted
+[Wed Jul 29 08:31:14 2026] 192.168.68.127:36618 [302]: GET /
+[Wed Jul 29 08:31:14 2026] 192.168.68.127:36618 Closing
+[Wed Jul 29 08:31:15 2026] 192.168.68.127:36620 Accepted
+[Wed Jul 29 08:31:16 2026] 192.168.68.127:36620 [200]: GET /index2.html
+[Wed Jul 29 08:31:16 2026] 192.168.68.127:36620 Closing
+[Wed Jul 29 08:31:17 2026] 192.168.68.127:36634 Accepted
+[Wed Jul 29 08:31:18 2026] 192.168.68.127:36634 [302]: GET /logo.png
+[Wed Jul 29 08:31:18 2026] 192.168.68.127:36634 Closing
+[Wed Jul 29 08:31:18 2026] 192.168.68.127:36644 Accepted
+[Wed Jul 29 08:31:19 2026] 192.168.68.127:36644 [200]: GET /index2.html
+[Wed Jul 29 08:31:19 2026] 192.168.68.127:36644 Closing
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:36654 Accepted
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:36654 [302]: GET /images/favicon.ico
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:36654 Closing
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:50192 Accepted
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:50192 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:50192 Closing
+[Wed Jul 29 08:31:23 2026] 192.168.68.127:50208 Accepted
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50208 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50208 Closing
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50214 Accepted
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50214 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50214 Closing
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50222 Accepted
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50222 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50222 Closing
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50228 Accepted
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50228 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50228 Closing
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50238 Accepted
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50238 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50238 Closing
+[Wed Jul 29 08:31:24 2026] 192.168.68.127:50244 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50244 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50244 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50252 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50252 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50252 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50254 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50254 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50254 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50262 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50262 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50262 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50268 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50268 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50268 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50276 Accepted
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50276 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50276 Closing
+[Wed Jul 29 08:31:25 2026] 192.168.68.127:50280 Accepted
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50280 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50280 Closing
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50284 Accepted
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50284 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50284 Closing
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50286 Accepted
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50286 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50286 Closing
+[Wed Jul 29 08:31:26 2026] 192.168.68.127:50302 Accepted
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50302 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50302 Closing
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50314 Accepted
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50314 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50314 Closing
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50328 Accepted
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50328 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50328 Closing
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50338 Accepted
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50338 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50338 Closing
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50344 Accepted
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50344 [302]: GET /images/index2.html
+[Wed Jul 29 08:31:27 2026] 192.168.68.127:50344 Closing
