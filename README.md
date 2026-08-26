@@ -1,4 +1,5 @@
-# 🚀 HACK MZKYZAK v12.0 - ALL TOOLS WORKING EDITION
+# 🚀 HACK MZKYZAK v9.1 - ALL TOOLS WORKING EDITION
+# kecuali cek nik (blm sempurna)
 
 ![Banner](https://img.shields.io/badge/HACK-MZKYZAK-red)
 ![Version](https://img.shields.io/badge/Version-v12.0-blue)
@@ -21,16 +22,7 @@
 
 ## 🎯 **DESKRIPSI PROYEK**
 
-**HACK MZKYZAK v12.0** adalah toolkit hacking all-in-one yang sudah difix dan dioptimalkan untuk 100% working. Toolkit ini menggabungkan berbagai tools hacking termasuk **MHDDoS engine dengan 57 attack methods**, **Zoom meeting hacking tools**, **NIK Bansos auto-check bot**, dan berbagai utilities lainnya.
-
-**NEW ADDITIONS:**
-- ✅ **PROJECT_README.md** - Dokumentasi lengkap semua fitur
-- ✅ **cleanup_unused_files.sh** - Script cleanup file tidak penting  
-- ✅ **check_tools_status.sh** - Verifikasi semua tools working 100%
-- ✅ **Enhanced MHDDoS** - Multi-thread stacking (2000+2000+2000)
-- ✅ **Optimized venv** - Dual venv detection & auto-dependency install
-
-**Status:** ✅ **SEMUA TOOLS WORKING 100%**
+**HACK MZKYZAK v9.1** adalah toolkit hacking all-in-one yang sudah difix dan dioptimalkan untuk 100% working. Toolkit ini menggabungkan berbagai tools hacking termasuk **MHDDoS engine dengan 57 attack methods**, **Zoom meeting hacking tools**, **NIK Bansos auto-check bot**, dan berbagai utilities lainnya.
 
 ---
 
