@@ -22,7 +22,7 @@
 
 ## 🎯 **DESKRIPSI PROYEK**
 
-**HACK MZKYZAK v9.1** adalah toolkit hacking all-in-one yang sudah difix dan dioptimalkan untuk 100% working. Toolkit ini menggabungkan berbagai tools hacking termasuk **MHDDoS engine dengan 57 attack methods**, **Zoom meeting hacking tools**, **NIK Bansos auto-check bot**, dan berbagai utilities lainnya.
+**HACK MZKYZAK v9.1** adalah toolkit hacking all-in-one yang sudah difix dan dioptimalkan untuk 100% working. Toolkit ini menggabungkan berbagai tools inget Yee hacking ini termasuk **MHDDoS engine dengan 57 attack methods**, **Zoom meeting hacking tools**, di **NIK Bansos auto-check bot**, dan berbagai utilities lainnya.
 
 ---
 
@@ -31,7 +31,7 @@
 ### **❗ PENTING UNTUK DIBACA SEBELUM MENGGUNAKAN:**
 
 1. **HANYA UNTUK EDUKASI & PENGETESAN KEAMANAN**
-   - Tool ini ditujukan **hanya untuk testing security pada sistem yang Anda miliki sendiri**
+   - Tool ini ditujukan **hanya untuk testing security pada sistem yang lu miliki sendiri**
    - **JANGAN PERNAH** digunakan untuk menyerang sistem milik orang lain tanpa izin tertulis
    - Penggunaan illegal dapat berakibat **hukum pidana**
 
